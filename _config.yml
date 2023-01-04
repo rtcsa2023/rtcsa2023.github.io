@@ -43,13 +43,13 @@ navigation_header:
 - title: Program
   url: /comingsoon/
 - title: Submissions
-  url: /comingsoon/
+  url: '/index#submissions'
 - title: Venue
-  url: /comingsoon/
+  url: '/index#venue'
 - title: Registration
-  url: /comingsoon/
+  url: '/index#registration'
 - title: Visa
-  url: /comingsoon/
+  url: '/index#visa'
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 - title: NVMSA2023
