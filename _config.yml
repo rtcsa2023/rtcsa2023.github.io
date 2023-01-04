@@ -42,8 +42,12 @@ navigation_header:
   url: /
 - title: Submissions
   url: /
+- title: Venue
+  url: /
 - title: Registration
   url: /
+- title: RTCSA2022
+  url: https://rtcsa.org/index.html
 
 
 # Footer nav
