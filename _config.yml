@@ -42,17 +42,21 @@ navigation_header:
   url: /cfp/
 - title: Program
   url: /comingsoon/
-- title: Submissions
-  url: '/index#submissions'
+- title: Submit
+  url: '/index#submit'
+- title: Organizers
+  url: /comingsoon/
 - title: Venue
   url: '/index#venue'
 - title: Registration
   url: '/index#registration'
 - title: Visa
   url: '/index#visa'
+- title: Sponsors
+  url: '/index#sponsors'
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
-- title: NVMSA2023
+- title: Nvmsa2023
 #  url: {nvmsa2023}
 
 # Footer nav
