@@ -1,6 +1,6 @@
 # Set theme
-remote_theme: daviddarnes/alembic@main
-#theme: alembic-jekyll-theme
+#remote_theme: daviddarnes/alembic@main
+theme: alembic-jekyll-theme
 # File excludes
 exclude:
 - README.md
@@ -26,7 +26,7 @@ baseurl: ''
 title: 'IEEE RTCSA 2023'
 description: 'The 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications'
 permalink: pretty
-logo:
+#logo:
 
 # Pagination
 paginate: 5
@@ -41,21 +41,31 @@ navigation_header:
 - title: Program
   url: /comingsoon/
 - title: Submissions
-  url: /
+  url: /comingsoon/
 - title: Venue
-  url: /
+  url: /comingsoon/
 - title: Registration
-  url: /
+  url: /comingsoon/
 - title: Visa
-  url: /
+  url: /comingsoon/
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
-
+- title: NVMSA2023
+  url: /comingsoon/
 
 # Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
+
+# Social navigation
+social_navigation:
+
+# sharing to SNR
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
 
 # Collections
 collections:
