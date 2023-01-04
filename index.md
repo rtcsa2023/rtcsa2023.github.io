@@ -6,6 +6,5 @@ feature_text: |
   The 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications
   Aug.30-Spt.01, 2023, TOKI MESSE, Niigata, Japan
 ---
-#Call for Papers
 
 There isn't much going on here yet, but watch this space
