@@ -26,7 +26,7 @@ baseurl: ''
 title: 'IEEE RTCSA 2023'
 description: 'The 9th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications'
 permalink: pretty
-logo: 
+logo:
 
 # Pagination
 paginate: 5
@@ -36,10 +36,15 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: CFP
+  url: /
+- title: Program
+  url: /
+- title: Submissions
+  url: /
+- title: Registration
+  url: /
+
 
 # Footer nav
 navigation_footer:
