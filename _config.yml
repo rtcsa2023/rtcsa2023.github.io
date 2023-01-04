@@ -24,7 +24,7 @@ plugins:
 url: 'https://rtcsa2023.github.io'
 baseurl: ''
 title: 'IEEE RTCSA 2023'
-description: 'The 9th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications'
+description: 'The 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications'
 permalink: pretty
 logo:
 
@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CFP
-  url: /
+  url: /cfp/
 - title: Program
   url: /
 - title: Submissions
@@ -46,6 +46,8 @@ navigation_header:
   url: /
 - title: Registration
   url: /
+- title: Visa Support
+    url: /
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 
