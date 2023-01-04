@@ -46,8 +46,8 @@ navigation_header:
   url: /
 - title: Registration
   url: /
-- title: Visa Support
-    url: /
+- title: Visa
+  url: /
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 
