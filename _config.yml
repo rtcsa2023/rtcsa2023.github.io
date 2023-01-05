@@ -1,11 +1,12 @@
 # Set theme
-remote_theme: daviddarnes/alembic@main
-#theme: alembic-jekyll-theme
+#remote_theme: daviddarnes/alembic@main
+theme: alembic-jekyll-theme
 # File excludes
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+- cfp.md
 
 # Set plugins
 plugins:
@@ -39,7 +40,7 @@ navigation_header:
 - title: Home
   url: /
 - title: CFP
-  url: /cfp/
+  url: /comingsoon/
 - title: Program
   url: /comingsoon/
 - title: Submit
