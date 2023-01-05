@@ -1,7 +1,7 @@
 ---
 title: Welcome to IEEE RTCSA 2023
 layout: page
-feature_image: "/images/tokkimesse1.jpg"
+feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
   The 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications\
