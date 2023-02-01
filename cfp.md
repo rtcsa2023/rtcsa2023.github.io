@@ -3,23 +3,28 @@ title: Call for Papers
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
-  The 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications\
-  Aug.30-Spt.01, 2023, TOKI MESSE, Niigata, Japan
+  The 29th IEEE International Conference on Embedded and\
+  Real-Time Computing Systems and Applications(RTCSA'23)\
+  Location: TOKI MESSE, Niigata, Japan\
+  Date: Aug.30-Spt.01, 2023
 
 #aside: true
 ---
-**Conference Overview:**
-The RTCSA conference series brings together researchers and developers from academia and industry for advancing the technologies and theories to design and develop time-sensitive systems and applications. Representative examples include CPS, IoT, embedded systems, and fog/edge/cloud computing. RTCSA welcomes academic and industrial papers describing innovative research or technical results of embedded and real-time systems.
-
 # Important dates:
-* Abstract submission deadline: **Apr. 07, 2023**
-* Full paper submission deadline: **Apr. 14, 2023**
-* Acceptance Notification: **May 30, 2023**
-
-
-**Topic of Interest:** RTCSA 2023 seeks papers that describe original research in the following areas, but are not limited to:
-
-## REAL-TIME SYSTEMS TRACK
+Abstract submission deadline:   Apr.07, 2023
+Full paper submission deadline: Apr.14, 2023
+Acceptance Notification:    May.30, 2023
+# Conference Overview
+The RTCSA conference series brings together researchers and developers
+from academia and industry for advancing the technologies and theories
+to design and develop time-sensitive systems and
+applications. Representative examples include CPS, IoT, embedded
+systems, and fog/edge/cloud computing. RTCSA welcomes academic and
+industrial papers describing innovative research or technical results
+of embedded and real-time systems.
+Topic of Interest: RTCSA 2023 seeks papers that describe original
+research in the following areas, but are not limited to:
+REAL-TIME SYSTEMS TRACK:
 * Real-Time Scheduling
 * Workload models for real-time systems
 * Temperature/Energy-aware Scheduling
@@ -32,8 +37,7 @@ The RTCSA conference series brings together researchers and developers from acad
 * Communication Networks and Protocols of Real-Time Systems
 * Time-Sensitive Media Processing and Transmissions
 * Latency and throughput in Real-Time Databases
-
-## IoT, CPS, AND EMERGING APPLICATIONS TRACK
+IoT, CPS, AND EMERGING APPLICATIONS TRACK:
 * Systems, Technology and Foundations of IoT and CPS
 * Applications and Case Studies of IoT and CPS
 * Smart and Connected Health
@@ -44,8 +48,7 @@ The RTCSA conference series brings together researchers and developers from acad
 * Medical CPS
 * Cloud, Middleware and Networks for IoT and CPS
 * Wireless Sensor-Actuator Networks for IoT and CPS
-
-## EMBEDDED SYSTEMS TRACK
+EMBEDDED SYSTEMS TRACK
 * Multi-Core Embedded Systems
 * Operating Systems
 * Non-Volatile Memory and Storage
@@ -55,3 +58,22 @@ The RTCSA conference series brings together researchers and developers from acad
 * Reconfigurable Computing Architectures and Software Support
 * Ubiquitous and Distributed Embedded Systems and Networks
 * Embedded Systems for Machine-Learning
+# Organizing Committee
+* General Co-chairs:
+  Hiroshi Yamada, TUAT, Japan
+  Ting He, PSU, U.S.A.
+* Program Co-chairs:
+  Hiroyuki Tomiyama, Ritsumeikan Univ., Japan
+  Nan Guan, City University of Hong Kong, Hong Kong
+  Sebastian Steinhorst, Technical University of Munich, Germany
+* Financial Chair:
+  Yutaka Matsubara, Nagoya Univ., Japan
+* Registration Chair:
+  Takuya Azumi, Saitama Univ., Japan
+* Web Chair:
+  Yin Chen, Reitaku Univ., Japan
+* Publication Chair:
+  Hideyuki Kawashima, Keio Univ., Japan
+* Publicity Co-chairs:
+  Airi Tsuji, TUAT, Japan
+  Katsuya Matsubara, Future Univ. Hakodate, Japan
