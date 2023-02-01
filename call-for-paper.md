@@ -10,11 +10,7 @@ feature_text: |
 
 #aside: true
 ---
-# Important dates:
-Abstract submission deadline:   Apr.07, 2023
-Full paper submission deadline: Apr.14, 2023
-Acceptance Notification:    May.30, 2023
-# Conference Overview
+
 The RTCSA conference series brings together researchers and developers
 from academia and industry for advancing the technologies and theories
 to design and develop time-sensitive systems and
@@ -58,22 +54,8 @@ EMBEDDED SYSTEMS TRACK
 * Reconfigurable Computing Architectures and Software Support
 * Ubiquitous and Distributed Embedded Systems and Networks
 * Embedded Systems for Machine-Learning
-# Organizing Committee
-* General Co-chairs:
-  Hiroshi Yamada, TUAT, Japan
-  Ting He, PSU, U.S.A.
-* Program Co-chairs:
-  Hiroyuki Tomiyama, Ritsumeikan Univ., Japan
-  Nan Guan, City University of Hong Kong, Hong Kong
-  Sebastian Steinhorst, Technical University of Munich, Germany
-* Financial Chair:
-  Yutaka Matsubara, Nagoya Univ., Japan
-* Registration Chair:
-  Takuya Azumi, Saitama Univ., Japan
-* Web Chair:
-  Yin Chen, Reitaku Univ., Japan
-* Publication Chair:
-  Hideyuki Kawashima, Keio Univ., Japan
-* Publicity Co-chairs:
-  Airi Tsuji, TUAT, Japan
-  Katsuya Matsubara, Future Univ. Hakodate, Japan
+
+# Important dates:
+* Abstract submission deadline:   Apr.07, 2023
+* Full paper submission deadline: Apr.14, 2023
+* Acceptance Notification:    May.30, 2023

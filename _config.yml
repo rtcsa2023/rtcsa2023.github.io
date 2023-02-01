@@ -40,21 +40,21 @@ navigation_header:
 - title: Home
   url: /
 - title: CFP
-  url: /cfp/
+  url: /call-for-paper/
 #- title: Program
 #  url: /comingsoon/
 #- title: Submit
 #  url: '/index#submit'
-#- title: Organizers
-#  url: /comingsoon/
-#- title: Venue
-#  url: '/index#venue'
+- title: Organizers
+  url: /oc/
+- title: Venue
+  url: '/index#venue'
 #- title: Registration
 #  url: '/index#registration'
 #- title: Visa
 #  url: '/index#visa'
-#- title: Sponsors
-#  url: '/index#sponsors'
+- title: Sponsors
+  url: '/index#sponsors'
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 - title: Nvmsa2023
