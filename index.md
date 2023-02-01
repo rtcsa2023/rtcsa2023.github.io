@@ -19,7 +19,7 @@ Conference venue: TOKI MESSE, Niigata Convention Center ([ACCESS](https://www.to
 Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 
 # Sponsors
-[![IEEE](images/logos/ieee%20mb%20blue.png)](http://www.ieee.org)\
+[![IEEE](images/logos/ieee.png)](http://www.ieee.org)\
 
 [![IEEE Computer Society](images/logos/ComputerSocietyLogo-RGB-stacked.gif)](http://www.computer.org)\
 
