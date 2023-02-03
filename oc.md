@@ -30,7 +30,8 @@ feature_text: |
 ### Publicity Co-chairs:
 * Airi Tsuji, TUAT, Japan
 * Katsuya Matsubara, Future Univ. Hakodate, Japan
-
+* Hana Khamfroush, Univ. of Kentucky, U.S.A.
+* Ki-Il Kim, CNU, Korea
 
 # Advisory Board
 
@@ -49,4 +50,4 @@ feature_text: |
 * Japan: Jin Nakazawa, Keio University, Japan
 * South Korea: Insik Shin, KAIST, South Korea
 * Europe: Eduardo Tovar, Polytechnic Institute of Porto, Portugal
-* Mainland China/Hong Kong: Qixin Wang, Hong Kong Polytechnic University, Hong Kong SAR 
+* Mainland China/Hong Kong: Qixin Wang, Hong Kong Polytechnic University, Hong Kong SAR
