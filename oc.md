@@ -9,6 +9,8 @@ feature_text: |
   Date: Aug.30-Spt.01, 2023
 ---
 
+# Organizing Committee
+
 
 ### General Co-chairs:
 * Hiroshi Yamada, TUAT, Japan
@@ -41,7 +43,7 @@ feature_text: |
 * Hideyuki Tokuda, NICT, Japan - Founding Member
 
 
-# Steering Comittee
+# Steering Committee
 * US: Tarek Abdelzaher, University of Illinois at Urbana-Champaign, USA (Chair)
 * Taiwan: Li-Pin Chang, National Yang Ming Chiao Tung University, Taiwan
 * Singapore: Arvind Easwaran, Nanyang Technological University, Singapore
@@ -49,4 +51,4 @@ feature_text: |
 * South Korea: Insik Shin, KAIST, South Korea
 * Europe: Eduardo Tovar, Polytechnic Institute of Porto, Portugal
 * Mainland China/Hong Kong: Qixin Wang, Hong Kong Polytechnic University, Hong Kong SAR
-* US: Chenyang Lu, Washington University, USA
+* US: Chenyang Lu, Washington University, US
