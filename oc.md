@@ -10,8 +10,6 @@ feature_text: |
 ---
 
 
-# Organizing Committee
-
 ### General Co-chairs:
 * Hiroshi Yamada, TUAT, Japan
 * Ting He, PSU, U.S.A.
@@ -51,4 +49,4 @@ feature_text: |
 * South Korea: Insik Shin, KAIST, South Korea
 * Europe: Eduardo Tovar, Polytechnic Institute of Porto, Portugal
 * Mainland China/Hong Kong: Qixin Wang, Hong Kong Polytechnic University, Hong Kong SAR
-* USA: Chenyang Lu, Washington University
+* US: Chenyang Lu, Washington University, USA
