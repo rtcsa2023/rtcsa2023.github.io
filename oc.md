@@ -51,3 +51,4 @@ feature_text: |
 * South Korea: Insik Shin, KAIST, South Korea
 * Europe: Eduardo Tovar, Polytechnic Institute of Porto, Portugal
 * Mainland China/Hong Kong: Qixin Wang, Hong Kong Polytechnic University, Hong Kong SAR
+* USA: Chenyang Lu, Washington University
