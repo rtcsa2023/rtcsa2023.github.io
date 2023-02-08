@@ -1,5 +1,5 @@
 ---
-title:
+title: Organizing Committee
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
@@ -8,8 +8,6 @@ feature_text: |
   Location: TOKI MESSE, Niigata, Japan\
   Date: Aug.30-Spt.01, 2023
 ---
-
-# Organizing Committee
 
 
 ### General Co-chairs:
