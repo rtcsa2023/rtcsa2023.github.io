@@ -21,4 +21,4 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 # Sponsors
 [![IEEE](images/logos/ieee.png)](http://www.ieee.org)&nbsp;&nbsp;&nbsp;[![IEEE Computer Society](images/logos/ComputerSocietyLogo-RGB-stacked.gif)](http://www.computer.org)&nbsp;&nbsp;&nbsp;[![IEEE Computer Society TCRTS](images/logos/TCRTS-color.jpg)](https://cmte.ieee.org/tcrts/)
 
-[![Yahoo Japan](images/logos/yahoo.jpg)](https://www.yahoo.co.jp)
+[![Yahoo Japan](images/logos/yahoo.jpg)](https://randd.yahoo.co.jp/en)
