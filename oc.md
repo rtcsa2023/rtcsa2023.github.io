@@ -1,5 +1,5 @@
 ---
-title: Organizing Committee
+title:
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
@@ -9,29 +9,30 @@ feature_text: |
   Date: Aug.30-Spt.01, 2023
 ---
 
+### Organizing Committee
 
-### General Co-chairs:
+#### General Co-chairs:
 * Hiroshi Yamada, TUAT, Japan
 * Ting He, PSU, U.S.A.
-### Program Co-chairs:
+#### Program Co-chairs:
 * Hiroyuki Tomiyama, Ritsumeikan Univ., Japan
 * Nan Guan, City University of Hong Kong, Hong Kong
 * Sebastian Steinhorst, Technical University of Munich, Germany
-### Financial Chair:
+#### Financial Chair:
 * Yutaka Matsubara, Nagoya Univ., Japan
-### Registration Chair:
+#### Registration Chair:
 *  Takuya Azumi, Saitama Univ., Japan
-### Web Chair:
+#### Web Chair:
 *  Yin Chen, Reitaku Univ., Japan
-### Publication Chair:
+#### Publication Chair:
 *  Hideyuki Kawashima, Keio Univ., Japan
-### Publicity Co-chairs:
+#### Publicity Co-chairs:
 * Airi Tsuji, TUAT, Japan
 * Katsuya Matsubara, Future Univ. Hakodate, Japan
 * Hana Khamfroush, Univ. of Kentucky, U.S.A.
 * Ki-Il Kim, CNU, Korea
 
-# Advisory Board
+### Advisory Board
 
 
 * Seongsoo Hong, Seoul National University, South Korea - Founding Member
@@ -41,7 +42,7 @@ feature_text: |
 * Hideyuki Tokuda, NICT, Japan - Founding Member
 
 
-# Steering Committee
+### Steering Committee
 * US: Tarek Abdelzaher, University of Illinois at Urbana-Champaign, USA (Chair)
 * Taiwan: Li-Pin Chang, National Yang Ming Chiao Tung University, Taiwan
 * Singapore: Arvind Easwaran, Nanyang Technological University, Singapore
