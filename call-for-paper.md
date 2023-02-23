@@ -1,5 +1,6 @@
 ---
-title:　Call for Papers
+title: Call for Papers
+layout: page
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
