@@ -8,7 +8,7 @@ feature_text: |
   Location: TOKI MESSE, Niigata, Japan\
   Date: Aug.30-Spt.01, 2023
 
-aside: true
+#aside: true
 ---
 # Call for Papers
 The RTCSA conference series brings together researchers and developers
