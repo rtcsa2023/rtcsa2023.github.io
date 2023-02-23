@@ -23,5 +23,3 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 
 [![Yahoo Japan](images/logos/yahoo.jpg)](https://randd.yahoo.co.jp/en)
 [![SECOM](images/logos/secom.png)](https://www.secomzaidan.jp/)
-
-<a href="https://www.google.com/" style=" text-decoration: ; text-decoration-style: none;">custom link</a>
