@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title:
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
   ## IEEE RTCSA 2023
@@ -8,9 +8,9 @@ feature_text: |
   Location: TOKI MESSE, Niigata, Japan\
   Date: Aug.30-Spt.01, 2023
 
-#aside: true
+aside: true
 ---
-
+# Call for Papers
 The RTCSA conference series brings together researchers and developers
 from academia and industry for advancing the technologies and theories
 to design and develop time-sensitive systems and
@@ -20,7 +20,8 @@ industrial papers describing innovative research or technical results
 of embedded and real-time systems.
 Topic of Interest: RTCSA 2023 seeks papers that describe original
 research in the following areas, but are not limited to:
-REAL-TIME SYSTEMS TRACK:
+
+#### REAL-TIME SYSTEMS TRACK:
 * Real-Time Scheduling
 * Workload models for real-time systems
 * Temperature/Energy-aware Scheduling
@@ -33,7 +34,8 @@ REAL-TIME SYSTEMS TRACK:
 * Communication Networks and Protocols of Real-Time Systems
 * Time-Sensitive Media Processing and Transmissions
 * Latency and throughput in Real-Time Databases
-IoT, CPS, AND EMERGING APPLICATIONS TRACK:
+
+#### IoT, CPS, AND EMERGING APPLICATIONS TRACK:
 * Systems, Technology and Foundations of IoT and CPS
 * Applications and Case Studies of IoT and CPS
 * Smart and Connected Health
@@ -44,7 +46,8 @@ IoT, CPS, AND EMERGING APPLICATIONS TRACK:
 * Medical CPS
 * Cloud, Middleware and Networks for IoT and CPS
 * Wireless Sensor-Actuator Networks for IoT and CPS
-EMBEDDED SYSTEMS TRACK
+
+#### EMBEDDED SYSTEMS TRACK
 * Multi-Core Embedded Systems
 * Operating Systems
 * Non-Volatile Memory and Storage
@@ -55,7 +58,7 @@ EMBEDDED SYSTEMS TRACK
 * Ubiquitous and Distributed Embedded Systems and Networks
 * Embedded Systems for Machine-Learning
 
-# Important dates:
+### Important dates:
 * Abstract submission deadline:   Apr.07, 2023
 * Full paper submission deadline: Apr.14, 2023
 * Acceptance Notification:    May.30, 2023
