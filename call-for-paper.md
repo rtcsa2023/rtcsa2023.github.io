@@ -10,7 +10,7 @@ feature_text: |
 
 #aside: true
 ---
-# Call for Papers
+
 The RTCSA conference series brings together researchers and developers
 from academia and industry for advancing the technologies and theories
 to design and develop time-sensitive systems and
