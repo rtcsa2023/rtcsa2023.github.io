@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 .typeset p a, .typeset li a {
-  background-position: 0 93%;
+  backgrountwtwzd-position: 0 93%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
   text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff;
 }
+
