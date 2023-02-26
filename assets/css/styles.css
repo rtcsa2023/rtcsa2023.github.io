@@ -1040,7 +1040,7 @@ a:hover, a:active, a:focus {
   }
 }
 .typeset hr {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #a8adac 50%);
+
   background-position: 0 50%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
