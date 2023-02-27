@@ -24,5 +24,5 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 <a style="background-image: none;" href="http://www.computer.org"><img src="/images/logos/ComputerSocietyLogo-RGB-stacked.gif" alt="IEEE Computer Society" /></a>   
 <a style="background-image: none;" href="https://cmte.ieee.org/tcrts/"><img src="/images/logos/TCRTS-color.jpg" alt="IEEE Computer Society TCRTS" /></a></p>
 
-<p><a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img src="/images/logos/yahoo.pdf" alt="Yahoo Japan" /></a>
-<a style="background-image: none;" href="https://www.secomzaidan.jp/"><img src="/images/logos/secom.png" alt="SECOM" /></a></p>
+<p>
+<a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img width="483" height="158" src="/images/logos/yahoo.jpg" alt="IEEE Computer Society TCRTS" /></a><a style="background-image: none;" href="https://www.secomzaidan.jp/"><img width="483"  src="/images/logos/secom.png" alt="SECOM" /></a></p>
