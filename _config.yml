@@ -1,6 +1,6 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
-#theme: alembic-jekyll-theme
+#heme: alembic-jekyll-theme
 # File excludes
 exclude:
 - README.md
@@ -43,8 +43,8 @@ navigation_header:
   url: /call-for-paper/
 #- title: Program
 #  url: /comingsoon/
-#- title: Submit
-#  url: '/index#submit'
+- title: Submit a paper
+  url: /submission/
 - title: Organizers
   url: /oc/
 - title: Venue
@@ -54,7 +54,7 @@ navigation_header:
 #- title: Visa
 #  url: '/index#visa'
 - title: Sponsors
-  url: '/index#sponsors'
+  url: '/index#Sponsors'
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 - title: Nvmsa2023
