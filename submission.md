@@ -22,5 +22,4 @@ webpage).
 * The file that you will upload is a PDF. The three tracks: "REAL-TIME SYSTEMS TRACK", "IoT, CPS, AND EMERGING
 APPLICATIONS TRACK", and "EMBEDDED SYSTEMS TRACK" (described in the [Call for Papers](/call-for-paper/)) to submit the paper to.
 
-The prospective authors should submit their papers through the submission web page at:
-https://easychair.org/conferences/?conf=rtcsa2023
+The prospective authors should submit their papers through the submission web page at: [Paper Submission](https://easychair.org/conferences/?conf=rtcsa2023)
