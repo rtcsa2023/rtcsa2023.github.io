@@ -20,7 +20,12 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 
 
 # Sponsors
-
+{: align="center"}
+### Technical Sponsors
+{: align="center"}
+<a style="background-image: none;" href="http://www.ieee.org"><img src="/images/logos/ieee.png" alt="IEEE" /></a>   
+<a style="background-image: none;" href="http://www.computer.org"><img src="/images/logos/ComputerSocietyLogo-RGB-stacked.gif" alt="IEEE Computer Society" /></a>   
+<a style="background-image: none;" href="https://cmte.ieee.org/tcrts/"><img src="/images/logos/TCRTS-color.jpg" alt="IEEE Computer Society TCRTS" /></a>
 ### Gold Sponsors
 {: align="center"}
 <a style="background-image: none;" href="https://www.toyota-tokyo.tech/"><img width="483" height="158" src="/images/logos/toyota.gif" alt="Toyota" /></a>
@@ -33,8 +38,3 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 {: align="center"}
 <a style="background-image: none;" href="https://www.secomzaidan.jp/"><img width="483"  src="/images/logos/secom.png" alt="SECOM" /></a>
 {: align="center"}
-### Technical Sponsors
-{: align="center"}
-<a style="background-image: none;" href="http://www.ieee.org"><img src="/images/logos/ieee.png" alt="IEEE" /></a>   
-<a style="background-image: none;" href="http://www.computer.org"><img src="/images/logos/ComputerSocietyLogo-RGB-stacked.gif" alt="IEEE Computer Society" /></a>   
-<a style="background-image: none;" href="https://cmte.ieee.org/tcrts/"><img src="/images/logos/TCRTS-color.jpg" alt="IEEE Computer Society TCRTS" /></a>
