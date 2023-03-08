@@ -1,6 +1,6 @@
 # Set theme
 remote_theme: daviddarnes/alembic@main
-#heme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
 # File excludes
 exclude:
 - README.md
@@ -54,7 +54,7 @@ navigation_header:
 #- title: Visa
 #  url: '/index#visa'
 - title: Sponsors
-  url: '/index#Sponsors'
+  url: '/index#sponsors'
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 - title: Nvmsa2023
