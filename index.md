@@ -18,23 +18,32 @@ Located at the mouth of Shinano-river, in the heart of Niigata city, Toki Messe 
 Conference venue: TOKI MESSE, Niigata Convention Center ([ACCESS](https://www.tokimesse.com/english/access/index.html))\
 Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 
-
+{: align="center"}
 # Sponsors
+
+
 {: align="center"}
 ### Technical Sponsors
+
 {: align="center"}
 <a style="background-image: none;" href="http://www.ieee.org"><img src="/images/logos/ieee.png" alt="IEEE" /></a>   
 <a style="background-image: none;" href="http://www.computer.org"><img src="/images/logos/ComputerSocietyLogo-RGB-stacked.gif" alt="IEEE Computer Society" /></a>   
 <a style="background-image: none;" href="https://cmte.ieee.org/tcrts/"><img src="/images/logos/TCRTS-color.jpg" alt="IEEE Computer Society TCRTS" /></a>
+
+{: align="center"}
 ### Gold Sponsors
+
 {: align="center"}
 <a style="background-image: none;" href="https://www.toyota-tokyo.tech/"><img width="483" height="158" src="/images/logos/toyota.gif" alt="Toyota" /></a>
+
 {: align="center"}
 ### Silver Sponsors
+
 {: align="center"}
 <a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img width="483" height="158" src="/images/logos/yahoo.jpg" alt="Yahoo Japan"/></a>
+
 {: align="center"}
 ### Other Sponsors/Supporters
+
 {: align="center"}
 <a style="background-image: none;" href="https://www.secomzaidan.jp/"><img width="483"  src="/images/logos/secom.png" alt="SECOM" /></a>
-{: align="center"}
