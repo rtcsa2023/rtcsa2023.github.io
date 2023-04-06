@@ -60,6 +60,6 @@ research in the following areas, but are not limited to:
 * Embedded Systems for Machine-Learning
 
 ### Important dates:
-* Abstract submission deadline:   Apr.07, 2023
-* Full paper submission deadline: Apr.14, 2023
+* Abstract submission deadline:   ~~Apr.07, 2023~~ => extended to April 21, 2023
+* Full paper submission deadline: ~~Apr.14, 2023~~ => extended to April 28, 2023 
 * Acceptance Notification:    May.30, 2023
