@@ -58,7 +58,7 @@ navigation_header:
 - title: RTCSA2022
   url: https://rtcsa.org/index.html
 - title: Nvmsa2023
-#  url: {nvmsa2023}
+  url: https://nvmsa2023.github.io
 
 # Footer nav
 navigation_footer:
