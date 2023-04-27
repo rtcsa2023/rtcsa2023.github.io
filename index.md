@@ -31,6 +31,13 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 <a style="background-image: none;" href="https://cmte.ieee.org/tcrts/"><img src="/images/logos/TCRTS-color.jpg" alt="IEEE Computer Society TCRTS" /></a>
 
 {: align="center"}
+
+### Platinum Sponsors
+
+{: align="center"}
+<a style="background-image: none;" href="https://www.research.ibm.com"><img height="158"  src="/images/logos/ibm.png" alt="IBM" /></a>
+
+{: align="center"}
 ### Gold Sponsors
 
 {: align="center"}
