@@ -50,6 +50,10 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 <a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img width="483" height="158" src="/images/logos/yahoo.jpg" alt="Yahoo Japan"/></a>
 
 {: align="center"}
+<a style="background-image: none;" ><img width="483" height="158" src="/images/logos/autoware.png" alt="Autoware"/></a>
+
+
+{: align="center"}
 ### Other Sponsors/Supporters
 
 {: align="center"}
