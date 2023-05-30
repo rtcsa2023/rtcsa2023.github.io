@@ -41,6 +41,8 @@ navigation_header:
   url: /
 - title: CFP
   url: /call-for-paper/
+- title: Posters
+  url: /call-for-poster/
 #- title: Program
 #  url: /comingsoon/
 - title: Submit a paper
