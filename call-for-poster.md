@@ -16,9 +16,10 @@ The RTCSA 2023 poster session provides an opportunity to present early-stage wor
 
 ### Submission:
 Submissions have at most 2 pages of technical content, including all text figures, tables, appendices, references, etc. The submitted extended abstracts are subject to single-blind reviews. The extended abstract is formatted according to the IEEE conference paper guidelines, and published in the RTCSA 2023's proceedings.
-* Submission site: TBA
+* Submission site: [link](https://easychair.org/my/conference?conf=rtcsa2023)
+
 
 ### Important dates:
-* Submission deadline: TBA
-* Acceptance Notification: TBA
+* Submission deadline: 6/25
+* Acceptance Notification: 6/30
 * Camera ready deadline: TBA
