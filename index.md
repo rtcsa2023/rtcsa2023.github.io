@@ -35,26 +35,25 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 ### Platinum Sponsors
 
 {: align="center"}
-<a style="background-image: none;" href="https://www.research.ibm.com"><img height="158"  src="/images/logos/IBM.png" alt="IBM" /></a>
+<a style="background-image: none;" href="https://www.research.ibm.com"><img  src="/images/logos/IBM.png" alt="IBM" /></a>
 
 {: align="center"}
 ### Gold Sponsors
 
 {: align="center"}
-<a style="background-image: none;" href="https://www.toyota-tokyo.tech/"><img width="483" height="158" src="/images/logos/toyota.gif" alt="Toyota" /></a>
+<a style="background-image: none;" href="https://www.toyota-tokyo.tech/"><img   src="/images/logos/toyota.gif" alt="Toyota" /></a>
 
 {: align="center"}
 ### Silver Sponsors
 
 {: align="center"}
-<a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img width="483" height="158" src="/images/logos/yahoo.jpg" alt="Yahoo Japan"/></a>
-
-{: align="center"}
-<a style="background-image: none;"  href="https://www.autoware.org/"><img width="483" height="158" src="/images/logos/autoware.png" alt="Autoware"/></a>
+<a style="background-image: none;" href="https://randd.yahoo.co.jp/en"><img  src="/images/logos/yahoo.jpg" alt="Yahoo Japan"/></a>
+<a style="background-image: none;"  href="https://www.autoware.org/"><img  src="/images/logos/autoware.png" alt="Autoware"/></a>
+<a style="background-image: none;"  href="https://luida.jp/"><img   src="/images/logos/luida.png" alt="Autoware"/></a>
 
 
 {: align="center"}
 ### Other Sponsors/Supporters
 
 {: align="center"}
-<a style="background-image: none;" href="https://www.secomzaidan.jp/"><img width="483"  src="/images/logos/secom.png" alt="SECOM" /></a>
+<a style="background-image: none;" href="https://www.secomzaidan.jp/"><img height="158"   src="/images/logos/secom.png" alt="SECOM" /></a>
