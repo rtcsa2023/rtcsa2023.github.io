@@ -1,5 +1,5 @@
 ---
-#title: Keynote Speech
+title: Keynote Speech
 layout: page
 feature_image: "/images/tokimesse3.jpg"
 feature_text: |
