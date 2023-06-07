@@ -41,10 +41,12 @@ navigation_header:
   url: /
 - title: Posters
   url: /call-for-poster/
+- title: Keynote
+  url: /keynote/
 - title: CFP
   url: /call-for-paper/
 #- title: Program
-#  url: /comingsoon/
+#  url: /program/
 - title: Submit a paper
   url: /submission/
 - title: Organizers
