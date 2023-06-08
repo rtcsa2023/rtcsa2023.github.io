@@ -18,6 +18,8 @@ Located at the mouth of Shinano-river, in the heart of Niigata city, Toki Messe 
 Conference venue: TOKI MESSE, Niigata Convention Center ([ACCESS](https://www.tokimesse.com/english/access/index.html))\
 Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 
+
+
 {: align="center"}
 # Sponsors
 
