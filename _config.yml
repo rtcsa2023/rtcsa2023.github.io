@@ -47,16 +47,17 @@ navigation_header:
   url: /call-for-paper/
 #- title: Program
 #  url: /program/
+- title: Registration
+  url: '/registration/'
+- title: Visa Support
+  url: '/registration#visa'
 - title: Submit a paper
   url: /submission/
 - title: Organizers
   url: /oc/
 - title: Venue
   url: '/index#venue'
-#- title: Registration
-#  url: '/index#registration'
-#- title: Visa
-#  url: '/index#visa'
+
 - title: Sponsors
   url: '/index#sponsors'
 - title: RTCSA2022
