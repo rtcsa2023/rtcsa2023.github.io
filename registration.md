@@ -14,7 +14,8 @@ feature_text: |
 
 * Deadline for Early Bird Registration:	<span style="color: red; ">July 20, 2023 (AOE)</span>
 * Deadline for Online Registration:		<span style="color: red; ">August 25, 2023 (AOE)</span>   
-**After August 25, 2023**, please do on-site registration at the registration desk during the RTCSA/NVMSA 2023.All deadline dates are in **UTC-12 (Anywhere on Earth).**
+**After August 25, 2023**, please do on-site registration at the registration desk during the RTCSA/NVMSA 2023.  
+All deadline dates are in **UTC-12 (Anywhere on Earth).**
 
 # Registration Fees
 The registration will be completed with <u>full payment</u>.  　
@@ -39,8 +40,8 @@ The registration will be completed with <u>full payment</u>.  　
 
 
 #### Notes:  
- * Student rate is applicable only to those who have student status at the time of the conference.
-Students are required to submit a scanned copy (in either jpeg or pdf format) of their student ID via online registration form.
+ * Student rate is applicable only to those who have student status at the time of the symposium.  
+Students are required to submit a scanned copy (in either jpeg or pdf format) of their student ID via online registration form.  
 Please be advised that student rate will not be applied for students who have full time job or Post-doc.
  * A registration includes    
    - All scientific sessions
@@ -69,7 +70,7 @@ For the papers to be included in the program, authors should meet the following 
 
 
 # Changes of Registration
-Please revise your personal information by logging-in to your personal page.
+Please revise your personal information by logging-in to your personal page.  
 If you would like to change your registration category, please contact the Registration Office.
 
 # Cancellation
@@ -80,7 +81,7 @@ If you cancel your participation in the Symposium, please be sure to notify the 
 | July 20 through August 14, 2023     |50% of the registration fee                  |
 | From August 15, 2023                | 100% of the registration fee (No refund)     |
 
-* All refund will be made after the conference.
+* All refund will be made after the symposium.
 
 
 {: align="center"}
@@ -92,6 +93,6 @@ Citizens of certain countries are required to obtain a visa to enter Japan. Plea
 
 
 # Contact
-Registration Office of RTCSA/NVMSA 2023
-IEEE RTCSA/NVMSA2023  Secretariat
+Registration Office of RTCSA/NVMSA 2023  
+IEEE RTCSA/NVMSA2023  Secretariat  
 E-mail：rtcsa2023-reg[AT]asg.cs.tuat.ac.jp
