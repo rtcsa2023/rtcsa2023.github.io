@@ -12,7 +12,9 @@ feature_text: |
 
 ### Personalized Predictions of Clinical Outcomes and Treatment Response with Wearables and Machine Learning
 
-**Chenyang Lu**,Washington University in St. Louis
+**Chenyang Lu**,  AIM Institute  
+Washington University in St. Louis
+
 
 <a style="background-image: none;" ><img src="/images/photos/Chenyang_Lu_2022.jpg" alt="Chenyang Lu" /></a>   
 
