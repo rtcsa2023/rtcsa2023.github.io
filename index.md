@@ -46,6 +46,9 @@ Address: 6-1 Bandaijima, Chuo-ku, Niigata City,Niigata 950-0078 Japan
 <a style="background-image: none;" href="https://www.toyota-tokyo.tech/"><img   src="/images/logos/toyota.gif" alt="Toyota" /></a>
 
 {: align="center"}
+<a style="background-image: none;" href="https://www.hitachi.com/rd/index.html"><img   src="/images/logos/hitachi.png" alt="Toyota" /></a>
+
+{: align="center"}
 ### Silver Sponsors
 
 {: align="center"}
