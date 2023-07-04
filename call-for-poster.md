@@ -22,4 +22,4 @@ Submissions have at most 2 pages of technical content, including all text figure
 ### Important dates:
 * Submission deadline: 6/25
 * Acceptance Notification: 6/30
-* Camera ready deadline: TBA
+* Camera ready deadline: 7/7
