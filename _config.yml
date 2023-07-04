@@ -45,8 +45,8 @@ navigation_header:
   url: /keynote/
 - title: CFP
   url: /call-for-paper/
-#- title: Program
-#  url: /program/
+- title: Program
+  url: /program/
 - title: Registration
   url: '/registration/'
 - title: Visa Support
