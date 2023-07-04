@@ -43,10 +43,11 @@ navigation_header:
   url: /call-for-poster/
 - title: Keynote
   url: /keynote/
-- title: CFP
-  url: /call-for-paper/
 - title: Program
   url: /program/
+- title: CFP
+  url: /call-for-paper/
+
 - title: Registration
   url: '/registration/'
 - title: Visa Support
