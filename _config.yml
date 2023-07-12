@@ -52,6 +52,8 @@ navigation_header:
   url: '/registration/'
 - title: Visa Support
   url: '/registration#visa'
+- title: Accommodation
+  url: '/hotel'
 - title: Submit a paper
   url: /submission/
 - title: Organizers
