@@ -93,6 +93,6 @@ Citizens of certain countries are required to obtain a visa to enter Japan. Plea
 
 
 # Contact
-IEEE RTCSA/NVMSA2023 Secretariat
-c/o Kadinche Corporation
+IEEE RTCSA/NVMSA2023 Secretariat  
+c/o Kadinche Corporation  
 E-mail：rtcsa2023-reg[AT]asg.cs.tuat.ac.jp
