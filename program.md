@@ -9,6 +9,14 @@ feature_text: |
   Location: TOKI MESSE, Niigata, Japan\
   Date: Aug.30-Spt.01, 2023
 ---
+# RTCSA & NVMSA
+<object data="/files/RTCSA2023-advance-program-print-v6.pdf" type="application/pdf" width="700px"  height="700px">
+    <embed src="/files/RTCSA2023-advance-program-print-v6.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/RTCSA2023-advance-program-print-v6.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+# RTCSA
 
 <object data="/files/RTCSA2023-advance-program-v10.pdf" type="application/pdf" width="700px"  height="700px">
     <embed src="/files/RTCSA2023-advance-program-v10.pdf">
